@@ -1,0 +1,83 @@
+C:/Codes/MIPS/CPU_Multiple/MCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/MCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MCU
+
+Top level modules:
+	MCU
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/DF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/DF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DF
+
+Top level modules:
+	DF
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/ALU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/MUX.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/MUX.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MUX5_2
+-- Compiling module MUX32_2
+-- Compiling module MUX32_4
+
+Top level modules:
+	MUX5_2
+	MUX32_2
+	MUX32_4
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/ALUCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALUCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALUCU
+
+Top level modules:
+	ALUCU
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/MM.v {2 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/MM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MM
+** Warning: C:/Codes/MIPS/CPU_Multiple/MM.v(24): (vlog-2182) 'Mem' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	MM
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU_Multiple
+
+Top level modules:
+	CPU_Multiple
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/IR.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/IR.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/PC.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/PC.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/RF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/RF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/SigExt.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/SigExt.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SigExt
+
+Top level modules:
+	SigExt
+
+} {} {}}

@@ -1,0 +1,85 @@
+C:/Codes/MIPS/CPU_Single/PC.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/PC.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Codes/MIPS/CPU_Single/MCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/MCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MCU
+
+Top level modules:
+	MCU
+
+} {} {}} C:/Codes/MIPS/CPU_Single/MUX5.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/MUX5.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MUX5
+
+Top level modules:
+	MUX5
+
+} {} {}} C:/Codes/MIPS/CPU_Single/MUX32.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/MUX32.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MUX32
+
+Top level modules:
+	MUX32
+
+} {} {}} C:/Codes/MIPS/CPU_Single/RF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/RF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Codes/MIPS/CPU_Single/ALUCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/ALUCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALUCU
+
+Top level modules:
+	ALUCU
+
+} {} {}} C:/Codes/MIPS/CPU_Single/ALU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/ALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Codes/MIPS/CPU_Single/Reg.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/Reg.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} C:/Codes/MIPS/CPU_Single/IM.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/IM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Codes/MIPS/CPU_Single/CPU_Single.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/CPU_Single.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU_Single
+
+Top level modules:
+	CPU_Single
+
+} {} {}} C:/Codes/MIPS/CPU_Single/Add.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/Add.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} C:/Codes/MIPS/CPU_Single/DM.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Single/DM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}}

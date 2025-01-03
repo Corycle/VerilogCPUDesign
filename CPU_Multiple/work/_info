@@ -1,0 +1,318 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Codes/MIPS/CPU_Single
+vALU
+Z0 !s110 1735903172
+!i10b 1
+!s100 :=ANiodZ_YR7Ekfh<[kKH3
+IfR@XkOibjXa`TCS3P;a^83
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Codes/MIPS/CPU_Multiple
+w1735884778
+8C:/Codes/MIPS/CPU_Multiple/ALU.v
+FC:/Codes/MIPS/CPU_Multiple/ALU.v
+L0 1
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1735903172.000000
+!s107 C:/Codes/MIPS/CPU_Multiple/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/ALU.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vALU_Ctrl_Unit
+!s110 1735883783
+!i10b 1
+!s100 o3OG`^ZBVEkPUlhR52G]M1
+IUWUY20LzbZzM;7lB=_CCe3
+R1
+R2
+w1735881797
+Z7 8C:/Codes/MIPS/CPU_Multiple/ALUCU.v
+Z8 FC:/Codes/MIPS/CPU_Multiple/ALUCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1735883783.000000
+Z9 !s107 C:/Codes/MIPS/CPU_Multiple/ALUCU.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/ALUCU.v|
+!i113 1
+R5
+R6
+n@a@l@u_@ctrl_@unit
+vALUCU
+R0
+!i10b 1
+!s100 Wz=I1I_A2:ho@?K9oR04]2
+IgU:=nX72C9g25QIo43WE:3
+R1
+R2
+w1735885574
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
+n@a@l@u@c@u
+vCPU_Multiple
+Z11 !s110 1735903173
+!i10b 1
+!s100 M8VZZiP2>L6GL?zXHYMId3
+IL[;@eGN0zZ3YH>;5WFJ6F3
+R1
+R2
+w1735884570
+8C:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v
+FC:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1735903173.000000
+!s107 C:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/CPU_Multiple.v|
+!i113 1
+R5
+R6
+n@c@p@u_@multiple
+vDF
+R0
+!i10b 1
+!s100 Sj9Wjjo=X@mlYM_zlb@Vo2
+I5Kk@GzSR?A?IdDQUk9QhJ3
+R1
+R2
+w1735881980
+8C:/Codes/MIPS/CPU_Multiple/DF.v
+FC:/Codes/MIPS/CPU_Multiple/DF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Multiple/DF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/DF.v|
+!i113 1
+R5
+R6
+n@d@f
+vIR
+R0
+!i10b 1
+!s100 ddPiSNg1bBf=Pl?R^e<gH3
+InXa=dQF<;daN3_?1[G11n0
+R1
+R2
+w1735885545
+8C:/Codes/MIPS/CPU_Multiple/IR.v
+FC:/Codes/MIPS/CPU_Multiple/IR.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Multiple/IR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/IR.v|
+!i113 1
+R5
+R6
+n@i@r
+vMCU
+R0
+!i10b 1
+!s100 c7>5hZQAN??R0PZ509`Wk1
+I;n843[bhBWSB=CUL7kOJg2
+R1
+R2
+w1735881249
+8C:/Codes/MIPS/CPU_Multiple/MCU.v
+FC:/Codes/MIPS/CPU_Multiple/MCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Multiple/MCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/MCU.v|
+!i113 1
+R5
+R6
+n@m@c@u
+vMM
+R0
+!i10b 1
+!s100 fIUdTRD;XS9QZbU3j6A9i0
+I0@@=lTDh_1OeZmh:b?j_a2
+R1
+R2
+w1735885554
+8C:/Codes/MIPS/CPU_Multiple/MM.v
+FC:/Codes/MIPS/CPU_Multiple/MM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Multiple/MM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/MM.v|
+!i113 1
+R5
+R6
+n@m@m
+vMUX32_2
+R0
+!i10b 1
+!s100 ^6P]D=ZDgMLlzS2@G<kYK1
+IDM4:NTQCL85I[[b9:DmSc2
+R1
+R2
+Z13 w1735885312
+Z14 8C:/Codes/MIPS/CPU_Multiple/MUX.v
+Z15 FC:/Codes/MIPS/CPU_Multiple/MUX.v
+L0 12
+R3
+r1
+!s85 0
+31
+R4
+Z16 !s107 C:/Codes/MIPS/CPU_Multiple/MUX.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/MUX.v|
+!i113 1
+R5
+R6
+n@m@u@x32_2
+vMUX32_4
+R0
+!i10b 1
+!s100 O_AT4e7=oaS]GaO0^PGMn0
+IKn?JQN<aI1Bdh]NQLJ`hz0
+R1
+R2
+R13
+R14
+R15
+L0 23
+R3
+r1
+!s85 0
+31
+R4
+R16
+R17
+!i113 1
+R5
+R6
+n@m@u@x32_4
+vMUX5_2
+R0
+!i10b 1
+!s100 8dF[XiRjK4e3IMWFYBl3V3
+IC6]AeGaY@5BlnBSlQFkPK3
+R1
+R2
+R13
+R14
+R15
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R16
+R17
+!i113 1
+R5
+R6
+n@m@u@x5_2
+vPC
+R11
+!i10b 1
+!s100 fF9zDjBh>Wo6j2Lj0gaga0
+I5bNke_OjKFDM9fQ=9_m<L2
+R1
+R2
+w1735885549
+8C:/Codes/MIPS/CPU_Multiple/PC.v
+FC:/Codes/MIPS/CPU_Multiple/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Codes/MIPS/CPU_Multiple/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/PC.v|
+!i113 1
+R5
+R6
+n@p@c
+vRF
+R11
+!i10b 1
+!s100 ILC1dL>H4Pfc98gmMH18n3
+ImAEOJ3:<KSE<5_lX9:NlZ0
+R1
+R2
+w1735882543
+8C:/Codes/MIPS/CPU_Multiple/RF.v
+FC:/Codes/MIPS/CPU_Multiple/RF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Codes/MIPS/CPU_Multiple/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/RF.v|
+!i113 1
+R5
+R6
+n@r@f
+vSigExt
+R11
+!i10b 1
+!s100 AdfK:^oU[?eG8omoCd2EO3
+Iz8L[5IneAe3JADJ5>VnZ23
+R1
+R2
+w1735885696
+8C:/Codes/MIPS/CPU_Multiple/SigExt.v
+FC:/Codes/MIPS/CPU_Multiple/SigExt.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Codes/MIPS/CPU_Multiple/SigExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Multiple/SigExt.v|
+!i113 1
+R5
+R6
+n@sig@ext

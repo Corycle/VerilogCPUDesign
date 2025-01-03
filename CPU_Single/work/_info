@@ -1,0 +1,274 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Codes/MIPS
+vAdd
+Z0 !s110 1735883544
+!i10b 1
+!s100 zhJg]]g8HTjbPm=4Ib8>01
+IFhb3Xg5F;Y=n=mQnFaYce2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Codes/MIPS/CPU_Single
+w1735867676
+8C:/Codes/MIPS/CPU_Single/Add.v
+FC:/Codes/MIPS/CPU_Single/Add.v
+L0 1
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1735883544.000000
+!s107 C:/Codes/MIPS/CPU_Single/Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/Add.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@add
+vALU
+R0
+!i10b 1
+!s100 TJOhZ`X16zVmmnh_zjndG2
+IVM6:h`d>o2Zn@SjJ8d:2:1
+R1
+R2
+w1735860918
+8C:/Codes/MIPS/CPU_Single/ALU.v
+FC:/Codes/MIPS/CPU_Single/ALU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Single/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+vALUCU
+R0
+!i10b 1
+!s100 fDWal65dD]Kz:BeNX`oW83
+ISL4<7I<BNhd0hN9e:m>cC3
+R1
+R2
+w1735860943
+8C:/Codes/MIPS/CPU_Single/ALUCU.v
+FC:/Codes/MIPS/CPU_Single/ALUCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Single/ALUCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/ALUCU.v|
+!i113 1
+R5
+R6
+n@a@l@u@c@u
+vCPU_Single
+R0
+!i10b 1
+!s100 nSYnNcoHbI53Y]dVLDl[>2
+Ig<UU[HhWbcne:d5_BCG^b1
+R1
+R2
+w1735873234
+8C:/Codes/MIPS/CPU_Single/CPU_Single.v
+FC:/Codes/MIPS/CPU_Single/CPU_Single.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Single/CPU_Single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/CPU_Single.v|
+!i113 1
+R5
+R6
+n@c@p@u_@single
+vDM
+R0
+!i10b 1
+!s100 _=ccIL3jmR[>SS7h]VBCj0
+I@@]E=X>LlV2A1M4lSc:5o3
+R1
+R2
+w1735865770
+8C:/Codes/MIPS/CPU_Single/DM.v
+FC:/Codes/MIPS/CPU_Single/DM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Codes/MIPS/CPU_Single/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/DM.v|
+!i113 1
+R5
+R6
+n@d@m
+vIM
+Z7 !s110 1735883545
+!i10b 1
+!s100 Gc>zKLo8MG8MCSQClEhXi3
+I7IAk9_d9S<b_d^F0lY^R_3
+R1
+R2
+w1735874159
+8C:/Codes/MIPS/CPU_Single/IM.v
+FC:/Codes/MIPS/CPU_Single/IM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1735883545.000000
+!s107 C:/Codes/MIPS/CPU_Single/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/IM.v|
+!i113 1
+R5
+R6
+n@i@m
+vMCU
+R7
+!i10b 1
+!s100 fG]@6:`fS=6nQR2YE3[Y@0
+IRzfCONj<<n<XPzK]T3Q_60
+R1
+R2
+w1735871250
+8C:/Codes/MIPS/CPU_Single/MCU.v
+FC:/Codes/MIPS/CPU_Single/MCU.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Codes/MIPS/CPU_Single/MCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MCU.v|
+!i113 1
+R5
+R6
+n@m@c@u
+vMUX32
+R7
+!i10b 1
+!s100 U24>G9XE]LMElMAG4adLY3
+IKTHl7<bb0j18=>IR8F9US1
+R1
+R2
+w1735844070
+8C:/Codes/MIPS/CPU_Single/MUX32.v
+FC:/Codes/MIPS/CPU_Single/MUX32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Codes/MIPS/CPU_Single/MUX32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MUX32.v|
+!i113 1
+R5
+R6
+n@m@u@x32
+vMUX5
+R7
+!i10b 1
+!s100 <kV2DWY09Mbln?<;n2JL60
+IHbmaViXDUU_:lL7L<>Pje2
+R1
+R2
+w1735844069
+8C:/Codes/MIPS/CPU_Single/MUX5.v
+FC:/Codes/MIPS/CPU_Single/MUX5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Codes/MIPS/CPU_Single/MUX5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MUX5.v|
+!i113 1
+R5
+R6
+n@m@u@x5
+vPC
+R7
+!i10b 1
+!s100 W1I;`gLd3fUI`G[k;RTVA2
+If>O8cS[Zfz_f:;;PFG_bN3
+R1
+R2
+w1735857696
+8C:/Codes/MIPS/CPU_Single/PC.v
+FC:/Codes/MIPS/CPU_Single/PC.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Codes/MIPS/CPU_Single/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/PC.v|
+!i113 1
+R5
+R6
+n@p@c
+vReg
+Z9 !s110 1735883546
+!i10b 1
+!s100 GV:R2z85PS4LHHzT_WA0^1
+Ib@AYBK9`clfO:k<9G9MiP2
+R1
+R2
+w1735857345
+8C:/Codes/MIPS/CPU_Single/Reg.v
+FC:/Codes/MIPS/CPU_Single/Reg.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1735883546.000000
+!s107 C:/Codes/MIPS/CPU_Single/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/Reg.v|
+!i113 1
+R5
+R6
+n@reg
+vRF
+R9
+!i10b 1
+!s100 b2_A8f3hmAQ1PGhB5Sfhn0
+I@n<aV0BH?`MJUo?ZOMzWk1
+R1
+R2
+w1735867575
+8C:/Codes/MIPS/CPU_Single/RF.v
+FC:/Codes/MIPS/CPU_Single/RF.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Codes/MIPS/CPU_Single/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/RF.v|
+!i113 1
+R5
+R6
+n@r@f
