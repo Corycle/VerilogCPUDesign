@@ -8,12 +8,10 @@ module RF(
     input [4:0] W_reg,
     input [31:0] W_data
 );
+    integer i;
     reg [31:0] Reg[31:0];
     initial begin
-        Reg[0]=0;
-        Reg[1]=1;
-        Reg[2]=1;
-        Reg[3]=0;
+        for(i=0;i<32;i=i+1)Reg[i]=0;
     end
     always @(posedge CLK) begin
         if(W) Reg[W_reg]=W_data;

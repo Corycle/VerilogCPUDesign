@@ -9,23 +9,23 @@ z2
 cModel Technology
 dC:/Codes/MIPS
 vAdd
-Z0 !s110 1735883544
+Z0 !s110 1735908326
 !i10b 1
 !s100 zhJg]]g8HTjbPm=4Ib8>01
-IFhb3Xg5F;Y=n=mQnFaYce2
+IKL17=DzWRD[DY?9Al`SiH3
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Codes/MIPS/CPU_Single
+Z2 dC:/Codes/VerilogCPUDesign/CPU_Single
 w1735867676
-8C:/Codes/MIPS/CPU_Single/Add.v
-FC:/Codes/MIPS/CPU_Single/Add.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/Add.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/Add.v
 L0 1
 Z3 OP;L;10.6c;65
 r1
 !s85 0
 31
-Z4 !s108 1735883544.000000
-!s107 C:/Codes/MIPS/CPU_Single/Add.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/Add.v|
+Z4 !s108 1735908326.000000
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/Add.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
@@ -34,20 +34,20 @@ vALU
 R0
 !i10b 1
 !s100 TJOhZ`X16zVmmnh_zjndG2
-IVM6:h`d>o2Zn@SjJ8d:2:1
+I3DWDXhNl@Tzk:AXn1PgOW0
 R1
 R2
 w1735860918
-8C:/Codes/MIPS/CPU_Single/ALU.v
-FC:/Codes/MIPS/CPU_Single/ALU.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/ALU.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/ALU.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Codes/MIPS/CPU_Single/ALU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/ALU.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/ALU.v|
 !i113 1
 R5
 R6
@@ -56,20 +56,20 @@ vALUCU
 R0
 !i10b 1
 !s100 fDWal65dD]Kz:BeNX`oW83
-ISL4<7I<BNhd0hN9e:m>cC3
+IfXlOdfa2Jm`W5cZH?ThjT0
 R1
 R2
 w1735860943
-8C:/Codes/MIPS/CPU_Single/ALUCU.v
-FC:/Codes/MIPS/CPU_Single/ALUCU.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/ALUCU.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/ALUCU.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Codes/MIPS/CPU_Single/ALUCU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/ALUCU.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/ALUCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/ALUCU.v|
 !i113 1
 R5
 R6
@@ -78,20 +78,20 @@ vCPU_Single
 R0
 !i10b 1
 !s100 nSYnNcoHbI53Y]dVLDl[>2
-Ig<UU[HhWbcne:d5_BCG^b1
+IPgKf<3GSmkGUElV1Fe=`10
 R1
 R2
 w1735873234
-8C:/Codes/MIPS/CPU_Single/CPU_Single.v
-FC:/Codes/MIPS/CPU_Single/CPU_Single.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/CPU_Single.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/CPU_Single.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Codes/MIPS/CPU_Single/CPU_Single.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/CPU_Single.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/CPU_Single.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/CPU_Single.v|
 !i113 1
 R5
 R6
@@ -99,43 +99,43 @@ n@c@p@u_@single
 vDM
 R0
 !i10b 1
-!s100 _=ccIL3jmR[>SS7h]VBCj0
-I@@]E=X>LlV2A1M4lSc:5o3
+!s100 ]?[aaN:z1]eESdQ>eci910
+IdH=GhGh5zGdFYgGEZ?Ic80
 R1
 R2
-w1735865770
-8C:/Codes/MIPS/CPU_Single/DM.v
-FC:/Codes/MIPS/CPU_Single/DM.v
+w1735907984
+8C:/Codes/VerilogCPUDesign/CPU_Single/DM.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/DM.v
 L0 1
 R3
 r1
 !s85 0
 31
 R4
-!s107 C:/Codes/MIPS/CPU_Single/DM.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/DM.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/DM.v|
 !i113 1
 R5
 R6
 n@d@m
 vIM
-Z7 !s110 1735883545
+Z7 !s110 1735908327
 !i10b 1
-!s100 Gc>zKLo8MG8MCSQClEhXi3
-I7IAk9_d9S<b_d^F0lY^R_3
+!s100 7h`K>[8=Me0Aee^fg6O6i3
+INSVjR1Ce4J0il?mKgdI;W1
 R1
 R2
-w1735874159
-8C:/Codes/MIPS/CPU_Single/IM.v
-FC:/Codes/MIPS/CPU_Single/IM.v
+w1735907947
+8C:/Codes/VerilogCPUDesign/CPU_Single/IM.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/IM.v
 L0 1
 R3
 r1
 !s85 0
 31
-Z8 !s108 1735883545.000000
-!s107 C:/Codes/MIPS/CPU_Single/IM.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/IM.v|
+Z8 !s108 1735908327.000000
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/IM.v|
 !i113 1
 R5
 R6
@@ -144,20 +144,20 @@ vMCU
 R7
 !i10b 1
 !s100 fG]@6:`fS=6nQR2YE3[Y@0
-IRzfCONj<<n<XPzK]T3Q_60
+IUXS7]=o2G?LYEoU]7g>>12
 R1
 R2
 w1735871250
-8C:/Codes/MIPS/CPU_Single/MCU.v
-FC:/Codes/MIPS/CPU_Single/MCU.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/MCU.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/MCU.v
 L0 1
 R3
 r1
 !s85 0
 31
 R8
-!s107 C:/Codes/MIPS/CPU_Single/MCU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MCU.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/MCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/MCU.v|
 !i113 1
 R5
 R6
@@ -166,20 +166,20 @@ vMUX32
 R7
 !i10b 1
 !s100 U24>G9XE]LMElMAG4adLY3
-IKTHl7<bb0j18=>IR8F9US1
+I@_Sa4_QLJ^g]OGebC;GL@3
 R1
 R2
 w1735844070
-8C:/Codes/MIPS/CPU_Single/MUX32.v
-FC:/Codes/MIPS/CPU_Single/MUX32.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/MUX32.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/MUX32.v
 L0 1
 R3
 r1
 !s85 0
 31
 R8
-!s107 C:/Codes/MIPS/CPU_Single/MUX32.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MUX32.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/MUX32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/MUX32.v|
 !i113 1
 R5
 R6
@@ -188,20 +188,20 @@ vMUX5
 R7
 !i10b 1
 !s100 <kV2DWY09Mbln?<;n2JL60
-IHbmaViXDUU_:lL7L<>Pje2
+IY]GYH3l>gG8`QKR[SClcP1
 R1
 R2
 w1735844069
-8C:/Codes/MIPS/CPU_Single/MUX5.v
-FC:/Codes/MIPS/CPU_Single/MUX5.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/MUX5.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/MUX5.v
 L0 1
 R3
 r1
 !s85 0
 31
 R8
-!s107 C:/Codes/MIPS/CPU_Single/MUX5.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/MUX5.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/MUX5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/MUX5.v|
 !i113 1
 R5
 R6
@@ -210,64 +210,64 @@ vPC
 R7
 !i10b 1
 !s100 W1I;`gLd3fUI`G[k;RTVA2
-If>O8cS[Zfz_f:;;PFG_bN3
+ICbBjJXC?BR4dlK@MYjzNc0
 R1
 R2
 w1735857696
-8C:/Codes/MIPS/CPU_Single/PC.v
-FC:/Codes/MIPS/CPU_Single/PC.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/PC.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/PC.v
 L0 1
 R3
 r1
 !s85 0
 31
 R8
-!s107 C:/Codes/MIPS/CPU_Single/PC.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/PC.v|
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/PC.v|
 !i113 1
 R5
 R6
 n@p@c
 vReg
-Z9 !s110 1735883546
+R7
 !i10b 1
 !s100 GV:R2z85PS4LHHzT_WA0^1
-Ib@AYBK9`clfO:k<9G9MiP2
+IF?8<z4<l^WED;o29`kIcX1
 R1
 R2
 w1735857345
-8C:/Codes/MIPS/CPU_Single/Reg.v
-FC:/Codes/MIPS/CPU_Single/Reg.v
+8C:/Codes/VerilogCPUDesign/CPU_Single/Reg.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/Reg.v
 L0 1
 R3
 r1
 !s85 0
 31
-Z10 !s108 1735883546.000000
-!s107 C:/Codes/MIPS/CPU_Single/Reg.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/Reg.v|
+R8
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/Reg.v|
 !i113 1
 R5
 R6
 n@reg
 vRF
-R9
+R7
 !i10b 1
-!s100 b2_A8f3hmAQ1PGhB5Sfhn0
-I@n<aV0BH?`MJUo?ZOMzWk1
+!s100 lB=bG_R`VnzC;Xm4>h_:m2
+IFj0?A7IUg2>Uzj6h=?ZQ>3
 R1
 R2
-w1735867575
-8C:/Codes/MIPS/CPU_Single/RF.v
-FC:/Codes/MIPS/CPU_Single/RF.v
+w1735908308
+8C:/Codes/VerilogCPUDesign/CPU_Single/RF.v
+FC:/Codes/VerilogCPUDesign/CPU_Single/RF.v
 L0 1
 R3
 r1
 !s85 0
 31
-R10
-!s107 C:/Codes/MIPS/CPU_Single/RF.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/MIPS/CPU_Single/RF.v|
+R8
+!s107 C:/Codes/VerilogCPUDesign/CPU_Single/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Single/RF.v|
 !i113 1
 R5
 R6

@@ -7,8 +7,8 @@ module DM(
 );
     reg [31:0] Mem[1023:0];
     initial begin
-        Mem[0]=0;
-        Mem[1]=1;
+        Mem[0]=5;
+        Mem[1]=10;
     end
     always @(*) begin
         if(R) R_data=Mem[Addr[9:0]];
