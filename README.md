@@ -1,2 +1,3 @@
 # VerilogCPUDesign
- 
+
+只写了单周期和多周期各十条MIPS基础指令
