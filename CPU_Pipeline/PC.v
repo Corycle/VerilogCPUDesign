@@ -7,6 +7,6 @@ module PC(
         Q=0;
     end
     always @(posedge CLK) begin
-        Q<=D; 
+        Q=D; 
     end
 endmodule

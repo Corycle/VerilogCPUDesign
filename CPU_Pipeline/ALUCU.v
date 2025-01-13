@@ -3,7 +3,7 @@ module ALUCU(
     input [5:0] Func,
     output reg [2:0] ALUCtrl
 );
-    always @(ALUOP,Func) begin
+    always @(*) begin
         case(ALUOP)
             2'b00:
             begin

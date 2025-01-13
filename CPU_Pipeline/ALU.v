@@ -8,6 +8,7 @@ module ALU(
 );
     reg [63:0] tmp;
     always @(*) begin
+        C=0;
         case(ALUCtrl)
             3'b000://AND
                 C=A&B;
@@ -42,6 +43,6 @@ module ALU(
             3'b100://SLT
                 C=$signed(A)<$signed(B);
         endcase
-        ZF=(C==0);
+        ZF<=(C==0);
     end
 endmodule

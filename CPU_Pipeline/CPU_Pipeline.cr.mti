@@ -12,6 +12,14 @@ Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 Top level modules:
 	Add
 
+} {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v {2 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MCU
+** Warning: C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v(122): (vlog-2182) 'rst' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	MCU
+
 } {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v {1 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 -- Compiling module CPU_Pipeline
@@ -19,19 +27,12 @@ Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 Top level modules:
 	CPU_Pipeline
 
-} {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v {1 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v
+} {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v {1 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module MCU
+-- Compiling module IM
 
 Top level modules:
-	MCU
-
-} {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v {1 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v
-Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module DM
-
-Top level modules:
-	DM
+	IM
 
 } {} {}} C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v {1 {vlog -work work -stats=none C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017

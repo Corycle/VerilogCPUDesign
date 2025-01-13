@@ -1,11 +1,12 @@
 module CPU_Pipeline;
     reg CLK;
 
-    MCU MCU(.ID_OPCode(ID_IR.Q[31:26]),
-            .EX_OPCode(EX_IR.Q[31:26]),
-            .MA_OPCode(MA_IR.Q[31:26]),
-            .WB_OPCode(WB_IR.Q[31:26]),
-            .WB_Func(WB_IR.Q[5:0]));
+    MCU MCU(.CLK(CLK),
+            .ID_IR(ID_IR.Q),
+            .EX_IR(EX_IR.Q),
+            .MA_IR(MA_IR.Q),
+            .WB_IR(WB_IR.Q),
+            .MA_Flag(MA_Flag.Q[0]));
 
     //FI
     PC PC(.CLK(CLK),.D(MUX1.Out));
@@ -26,20 +27,22 @@ module CPU_Pipeline;
     Reg EX_Imm32(.CLK(CLK),.Ctrl(1),.D(SigExt.Out));
     Reg EX_IR(.CLK(CLK),.Ctrl(1),.D(ID_IR.Q));
     Add Add2(.A(EX_NPC1.Q),.B({EX_Imm32.Q[29:0],2'b0}));
-    MUX32_2 MUX2(.In0(EX_Rt.Q),.In1(EX_Imm32.Q),.Ctrl(MCU.ALUSrc));
+    MUX32_4 MUX2A(.In0(EX_Rs.Q),.In1(MA_ALUOut.Q),.In2(MUX4.Out),.Ctrl(MCU.ALUSrcA));
+    MUX32_4 MUX2B(.In0(EX_Rt.Q),.In1(MA_ALUOut.Q),.In2(MUX4.Out),.In3(EX_Imm32.Q),.Ctrl(MCU.ALUSrcB));
     ALUCU ALUCU(.ALUOP(MCU.ALUOP),.Func(EX_IR.Q[5:0]));
-    ALU ALU(.A(EX_Rs.Q),.B(MUX2.Out),.ALUCtrl(ALUCU.ALUCtrl));
+    ALU ALU(.A(MUX2A.Out),.B(MUX2B.Out),.ALUCtrl(ALUCU.ALUCtrl));
 
     //MA
     Reg MA_NPC1(.CLK(CLK),.Ctrl(1),.D(EX_NPC1.Q));
     Reg MA_NPC2(.CLK(CLK),.Ctrl(1),.D(Add2.C));
     Reg MA_NPC3(.CLK(CLK),.Ctrl(1),.D({EX_NPC1.Q[31:28],EX_IR.Q[25:0],2'b0}));
-    Reg MA_Flag(.CLK(CLK),.Ctrl(1),.D(ALU.ZF));
+    Reg MA_Flag(.CLK(CLK),.Ctrl(1),.D({31'b0,ALU.ZF}));
     Reg MA_ALUOut(.CLK(CLK),.Ctrl(1),.D(ALU.C));
     Reg MA_Rt(.CLK(CLK),.Ctrl(1),.D(EX_Rt.Q));
     Reg MA_IR(.CLK(CLK),.Ctrl(1),.D(EX_IR.Q));
     MUX32_4 MUX3(.In0(MA_NPC1.Q),.In1(MA_NPC3.Q),.In2(MA_NPC2.Q),.In3(0),.Ctrl({MA_Flag.Q[0]&MCU.Branch,MCU.Jump}));
-    DM DM(.R(MCU.MemRd),.W(MCU.MemWr),.Addr(MA_ALUOut.Q),.W_data(MA_Rt.Q));
+    MUX32_2 MUX6(.In0(MA_Rt.Q),.In1(MUX4.Out),.Ctrl(MCU.MemSrc));
+    DM DM(.R(MCU.MemRd),.W(MCU.MemWr),.Addr(MA_ALUOut.Q),.W_data(MUX6.Out));
 
     //WB
     Reg WB_ALUOut(.CLK(CLK),.Ctrl(1),.D(MA_ALUOut.Q));
