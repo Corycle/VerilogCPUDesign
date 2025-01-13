@@ -1,0 +1,82 @@
+C:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Reg
+
+Top level modules:
+	Reg
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module Add
+
+Top level modules:
+	Add
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MCU
+
+Top level modules:
+	MCU
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module CPU_Pipeline
+
+Top level modules:
+	CPU_Pipeline
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALUCU
+
+Top level modules:
+	ALUCU
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module MUX5_2
+-- Compiling module MUX32_2
+-- Compiling module MUX32_4
+
+Top level modules:
+	MUX5_2
+	MUX32_2
+	MUX32_4
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SigExt
+
+Top level modules:
+	SigExt
+
+} {} {}}

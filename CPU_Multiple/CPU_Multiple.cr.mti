@@ -88,19 +88,19 @@ Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 Top level modules:
 	SigExt
 
-} {} {}} C:/Codes/VerilogCPUDesign/CPU_Multiple/SigExt.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Multiple/SigExt.v
-Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module SigExt
-
-Top level modules:
-	SigExt
-
 } {} {}} C:/Codes/MIPS/CPU_Multiple/MCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/MCU.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 -- Compiling module MCU
 
 Top level modules:
 	MCU
+
+} {} {}} C:/Codes/VerilogCPUDesign/CPU_Multiple/SigExt.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Multiple/SigExt.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module SigExt
+
+Top level modules:
+	SigExt
 
 } {} {}} C:/Codes/MIPS/CPU_Multiple/RF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/RF.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
@@ -116,19 +116,12 @@ Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
 Top level modules:
 	RF
 
-} {} {}} C:/Codes/MIPS/CPU_Multiple/DF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/DF.v
+} {} {}} C:/Codes/MIPS/CPU_Multiple/ALUCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALUCU.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module DF
+-- Compiling module ALUCU
 
 Top level modules:
-	DF
-
-} {} {}} C:/Codes/MIPS/CPU_Multiple/ALU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALU.v
-Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module ALU
-
-Top level modules:
-	ALU
+	ALUCU
 
 } {} {}} C:/Codes/MIPS/CPU_Multiple/MUX.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/MUX.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
@@ -141,12 +134,19 @@ Top level modules:
 	MUX32_2
 	MUX32_4
 
-} {} {}} C:/Codes/MIPS/CPU_Multiple/ALUCU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALUCU.v
+} {} {}} C:/Codes/MIPS/CPU_Multiple/ALU.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/ALU.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
--- Compiling module ALUCU
+-- Compiling module ALU
 
 Top level modules:
-	ALUCU
+	ALU
+
+} {} {}} C:/Codes/MIPS/CPU_Multiple/DF.v {1 {vlog -work work -stats=none C:/Codes/MIPS/CPU_Multiple/DF.v
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module DF
+
+Top level modules:
+	DF
 
 } {} {}} C:/Codes/VerilogCPUDesign/CPU_Multiple/DF.v {1 {vlog -work work -stats=none C:/Codes/VerilogCPUDesign/CPU_Multiple/DF.v
 Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
