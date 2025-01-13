@@ -5,12 +5,12 @@ module IM(
 	integer i;
     reg [31:0] Mem[1023:0];
     initial begin
-		for(i=0;i<1024;i=i+1)Mem[i]=0;// nop
         /* 
             init:
             reg[0] = 0 , reg[1] = 2 , reg[2] = 3
             mem[0] = 0 , mem[1] = 5 , mem[2] = 10
         */
+		for(i=0;i<1024;i=i+1)Mem[i]=0;// nop
         Mem[0]=32'b10001100000000110000000000000001;// lw r3, 1(r0)
         Mem[1]=32'b10001100000001000000000000000010;// lw r4, 2(r0)
         //reg: 0, 2, 3, 5, 10

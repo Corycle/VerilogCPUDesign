@@ -9,310 +9,310 @@ z2
 cModel Technology
 dC:/Codes/VerilogCPUDesign/CPU_Multiple
 vAdd
-Z0 !s110 1736756567
+Z0 !s110 1736757110
 !i10b 1
 !s100 zhJg]]g8HTjbPm=4Ib8>01
-ICE2H=?TjPlOUH[3e4o:jb2
+I?LndNY@;VI?Mf=7oDYcBo1
 Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Codes/VerilogCPUDesign/CPU_Pipeline
-w1735867676
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v
+Z2 dC:/Codes/Verilog_CPU_Design/CPU_Pipeline
+Z3 w1736757010
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Add.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/Add.v
 L0 1
-Z3 OP;L;10.6c;65
+Z4 OP;L;10.6c;65
 r1
 !s85 0
 31
-Z4 !s108 1736756567.000000
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/Add.v|
+Z5 !s108 1736757110.000000
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Add.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Add.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z6 o-work work
+Z7 tCvgOpt 0
 n@add
 vALU
 R0
 !i10b 1
 !s100 HdJohYW@]H7aC^8lhNO?^1
-I5_Ac6[^DDzb=F:5oV`ob^2
+IajX9R9iANKW=R6n[Hg[5V0
 R1
 R2
-w1736712116
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALU.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALU.v|
+!i113 1
 R6
+R7
 n@a@l@u
 vALUCU
 R0
 !i10b 1
 !s100 kf:GmA5Hlkc?5m:6zNimP2
-Ia64WM@cMig<jR1kM2c?UO2
+IDkn0[LRGHWFo_Kb20:99=2
 R1
 R2
-w1736755329
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALUCU.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALUCU.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/ALUCU.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALUCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/ALUCU.v|
+!i113 1
 R6
+R7
 n@a@l@u@c@u
 vCPU_Pipeline
 R0
 !i10b 1
 !s100 F15lcO1VK24^ehNEgi`e[0
-I1hWEglYaQ56MM;CA3iiBT2
+InE2JBJUM7iATXHNRS6@L31
 R1
 R2
-w1736756429
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/CPU_Pipeline.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/CPU_Pipeline.v|
+!i113 1
 R6
+R7
 n@c@p@u_@pipeline
 vDM
 R0
 !i10b 1
 !s100 Lg>iEh8[O8cNz;Q427R@a2
-IfzZ_k?GY=bFKX8oKKHPS`3
+IT6]b0S=PRQIHPma4PI:^C3
 R1
 R2
-w1736753266
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/DM.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/DM.v|
+!i113 1
 R6
+R7
 n@d@m
 vIM
 R0
 !i10b 1
 !s100 `dmbjkQBYLJ4^6zU0GT0@1
-I5zc?]Q66aDhI4zhL`66aX1
+Il0n@Dk39Yi3MmJIOhFD2J3
 R1
 R2
-w1736756547
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/IM.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/IM.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/IM.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/IM.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/IM.v|
+!i113 1
 R6
+R7
 n@i@m
 vMCU
 R0
 !i10b 1
 !s100 <bJSo>UKUZN_I=K;oZz>P3
-IRR8KB6;DQkmUdCzHFaKG_3
+IS:_gUioN6LiZ2:bPe?MlQ3
 R1
 R2
-w1736756447
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v
+L0 1
+R4
 r1
 !s85 0
 31
-R4
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/MCU.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MCU.v|
+!i113 1
 R6
+R7
 n@m@c@u
 vMUX32_2
-Z7 !s110 1736756568
+R0
 !i10b 1
 !s100 ^6P]D=ZDgMLlzS2@G<kYK1
-Imgboj2a?diFD0?Kng7O421
+I>lEY_;b]7XPl8fVf;BUi:1
 R1
 R2
-Z8 w1735885312
-Z9 8C:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v
-Z10 FC:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v
-L0 12
 R3
+Z8 8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MUX.v
+Z9 FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/MUX.v
+L0 12
+R4
 r1
 !s85 0
 31
-Z11 !s108 1736756568.000000
-Z12 !s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v|
-Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/MUX.v|
-!i113 1
 R5
+Z10 !s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MUX.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/MUX.v|
+!i113 1
 R6
+R7
 n@m@u@x32_2
 vMUX32_4
-R7
+R0
 !i10b 1
 !s100 O_AT4e7=oaS]GaO0^PGMn0
-IKk=c>TUYbBiac`lXO3K<;0
+I:3NWNYbDAfVac^EKa9og>0
 R1
 R2
+R3
 R8
 R9
-R10
 L0 23
-R3
+R4
 r1
 !s85 0
 31
-R11
-R12
-R13
-!i113 1
 R5
+R10
+R11
+!i113 1
 R6
+R7
 n@m@u@x32_4
 vMUX5_2
-R7
+R0
 !i10b 1
 !s100 8dF[XiRjK4e3IMWFYBl3V3
-IL4QU7jl3gkgV=1a4@JhOn0
+I[=ncMK2NhVz?Moci^NHBL1
 R1
 R2
+R3
 R8
 R9
-R10
 L0 1
-R3
+R4
 r1
 !s85 0
 31
-R11
-R12
-R13
-!i113 1
 R5
+R10
+R11
+!i113 1
 R6
+R7
 n@m@u@x5_2
 vPC
-R7
+R0
 !i10b 1
 !s100 W1I;`gLd3fUI`G[k;RTVA2
-IRNgCm[YGdIc`^SY`iXR9;3
+ICcI:86mZc=Moz^a65F4PY1
 R1
 R2
-w1736701944
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/PC.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/PC.v
+L0 1
+R4
 r1
 !s85 0
 31
-R11
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/PC.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/PC.v|
+!i113 1
 R6
+R7
 n@p@c
 vReg
-R7
+R0
 !i10b 1
 !s100 0DMaRBL8fB:m?d1HnXP8o0
-I9G7:8aazdRRhLnNfTCZbj1
+Ien>jT[ETelm^nabVm>F<z3
 R1
 R2
-w1736755854
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Reg.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/Reg.v
+L0 1
+R4
 r1
 !s85 0
 31
-R11
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/Reg.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/Reg.v|
+!i113 1
 R6
+R7
 n@reg
 vRF
-R7
+R0
 !i10b 1
 !s100 ZEPdNIMkoP[kbG_iF8f4W1
-IAE8aKimWHnMVhN6`f>MiM1
+I=bc_74FnH5fFg0U>V<ZUk2
 R1
 R2
-w1736753169
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/RF.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/RF.v
+L0 1
+R4
 r1
 !s85 0
 31
-R11
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/RF.v|
-!i113 1
 R5
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/RF.v|
+!i113 1
 R6
+R7
 n@r@f
 vSigExt
-R7
+!s110 1736757111
 !i10b 1
 !s100 AdfK:^oU[?eG8omoCd2EO3
-I;j@V4P;f1Jb3<[AXTL3XM3
+I?M`RjQXXgPz2faCj2Tg=33
 R1
 R2
-w1735885696
-8C:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v
-FC:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v
-L0 1
 R3
+8C:/Codes/Verilog_CPU_Design/CPU_Pipeline/SigExt.v
+FC:/Codes/Verilog_CPU_Design/CPU_Pipeline/SigExt.v
+L0 1
+R4
 r1
 !s85 0
 31
-R11
-!s107 C:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/VerilogCPUDesign/CPU_Pipeline/SigExt.v|
+!s108 1736757111.000000
+!s107 C:/Codes/Verilog_CPU_Design/CPU_Pipeline/SigExt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Codes/Verilog_CPU_Design/CPU_Pipeline/SigExt.v|
 !i113 1
-R5
 R6
+R7
 n@sig@ext
